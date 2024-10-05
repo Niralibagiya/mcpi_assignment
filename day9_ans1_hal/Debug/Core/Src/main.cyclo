@@ -1,0 +1,9 @@
+../Core/Src/main.c:94:5:main	1
+../Core/Src/main.c:140:6:SystemClock_Config	3
+../Core/Src/main.c:187:13:MX_I2C1_Init	2
+../Core/Src/main.c:221:13:MX_GPIO_Init	1
+../Core/Src/main.c:253:6:Lcd_Write4BitAndCtrl	1
+../Core/Src/main.c:260:6:Lcd_WriteByte	1
+../Core/Src/main.c:270:5:Lcd_Init	2
+../Core/Src/main.c:314:6:Lcd_Puts	2
+../Core/Src/main.c:327:6:Error_Handler	1
